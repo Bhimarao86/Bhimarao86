@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1> Hi i'm Bhimarao S</h1>
+<h1> Hi i'm Bhimarao </h1>
 <h3> Developer | Passionate about Building Scalable Web Applications</h3>
 
 
