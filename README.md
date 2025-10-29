@@ -1,17 +1,14 @@
 ## Hi there 👋
 
 <h1> Hi i'm Bhimarao S</h1>
-<h3> Java full stack developer</h3>
-*Bhimarao86/Bhimarao86* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+<h3> Developer | Passionate about Building Scalable Web Applications</h3>h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🔭 I’m currently working on Internship in Jspiders
+- 🌱 I’m currently learning Java Full Stack Development
+- 💬Ask me about Java, Spring Boot, Hibernate, MySQL, React.js, REST APIs
+- 📫 How to reach me: bhimarao8396@gmail.com
+- ⚡ Fun fact:I love solving real-world problems through code!
+
