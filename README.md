@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--
-**Bhimarao86/Bhimarao86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi i'm Bhimarao S</h1>
+<h3> Java full stack developer</h3>
+*Bhimarao86/Bhimarao86* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
